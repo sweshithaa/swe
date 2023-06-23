@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Webpage</title>
+    <style>
+        /* CSS styles go here */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+        }
+
+        h1 {
+            color: #333;
+        }
+
+        p {
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <h1>Welcome to My Webpage!</h1>
+
+    <p>This is a paragraph of text on my webpage.</p>
+
+    <h2>About Me</h2>
+    <p>I am a web developer with a passion for creating amazing websites.</p>
+
+    <h2>My Skills</h2>
+    <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JavaScript</li>
+    </ul>
+
+    <h2>Contact Me</h2>
+    <p>You can reach me at <a href="mailto:yourname@example.com">yourname@example.com</a>.</p>
+</body>
+</html>
